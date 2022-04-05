@@ -1,0 +1,7 @@
+#Wed Mar 09 17:28:34 CST 2022
+base.1=/Users/maihao/Documents/AndroidProject/android-basics-kotlin-dogglers-app/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/classes.dex
+path.1=classes.dex
+base.0=/Users/maihao/Documents/AndroidProject/android-basics-kotlin-dogglers-app/app/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
